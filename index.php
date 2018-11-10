@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    Text Master
+    Text Design
     <script src="script.js"></script>
 </body>
 </html>
