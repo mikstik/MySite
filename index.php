@@ -7,6 +7,7 @@
 </head>
 <body>
 
+    Text Master
     <script src="script.js"></script>
 </body>
 </html>
